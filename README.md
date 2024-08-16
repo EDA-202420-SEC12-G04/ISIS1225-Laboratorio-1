@@ -38,9 +38,9 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
-1. Student No. 1 Hernandez Gamboa Maria Sofía, Student No. 1 ms.hernandezg1@uniandes.edu.co, Student No. 1 owned functionality.
-1. Student No. 2 Ospina Reyes Tomas, Student No. 2 t.ospina@uniandes.edu.co, Student No. 2 owned functionality.
-1. Student No. 3 Cano Montoya Jose Daniel, Student No. 3 jd.cano@uniandes.edu.co, Student No. 3 owned functionality.
+1. Student No. 1 Hernandez Gamboa Maria Sofía, Student No. 1 ms.hernandezg1@uniandes.edu.co, 202412680.
+1. Student No. 2 Ospina Reyes Tomas, Student No. 2 t.ospina@uniandes.edu.co, 202022451.
+1. Student No. 3 Cano Montoya Jose Daniel, Student No. 3 jd.cano@uniandes.edu.co, 202416672.
 
 
 [Back to top](#laboratorio-1)
